@@ -1,0 +1,50 @@
+51091339, paperback, A Party For Ghouls, English, Romance, 26-10-2010, 3, 1, 768, new
+95682960, audiobook, A New Form, French, Newspaper, 03-08-2017, 38.5, 2, 4.5, MP3
+56874162, ebook, The Power Seekers, English, Contemporary, 31-08-2003, 45.5, 5, 759, PDF
+21875820, ebook, Get Away And Run Away, English, Suspense/thriller, 28-06-2001, 23, 7, 121, AZW3 
+38435675, paperback, One Shot, French, Historical, 20-08-2003, 8, 11, 345, used
+73745797, audiobook, Before The Past, French, Courtroom, 11-06-2016, 7.5, 17, 8.4, WMA
+81368948, ebook, The Monster In The Dark, English, Religious Drama, 19-09-2013, 24, 8, 99, PDF
+29872173, paperback, Signs of the Past, French, Utopian, 11-11-2010, 10.5, 3, 876, used
+05038590, audiobook, Season For Revenge, English, Psychological , 21-06-2017, 35, 1, 7.6, MP3
+84165601, ebook, Dark Hawk, French, Epic Western, 11-05-2014, 3.5, 9, 387, AZW3
+37528675, paperback, The Prince of Darkness, French, Science fiction, 13-03-2016, 36, 1, 122, new
+09043922, paperback, Horror Stories In The Dark, French, Detective, 24-09-2007, 49, 2, 901, new
+36966396, ebook, Soulless Dead, English, Fable, 04-03-2003, 45.5, 4, 693, MOBI
+36966396, paperback, Call of the Forest, English, Lab report, 07-06-2000, 46.5, 5, 568, used
+72552593, audiobook, Imaginary Gravity, French, Claymation, 27-02-2012, 38.5, 2, 3.2, MP3
+00738375, ebook, My Best Friend The Lion, French, Live-Action, 03-07-2005, 24, 3, 634, PDF
+88506735, paperback, We Are Powerful, English, Procedural, 26-09-2003, 19, 1, 1020, new
+06840263, paperback, Bang Crash and Boom, French, Splatter, 06-07-2008, 8.5, 5, 30, used 
+06222134, audiobook, The Mystery of Mr Watkins, French, Contemporary, 15-10-2005, 36, 3, 1.8, WMA
+32137604, ebook, Snow This Christmas, English, Revenge Western, 15-03-2001, 3.5, 12, 544, AZW3
+06472364, ebook, Dark Hawk, French, Docudrama, 22-01-2019, 5, 7, 423, PDF
+26275106, paperback, One Car And The Road, French, Romantic drama, 04-09-2000, 31, 6, 231, new
+59939577, audiobook, The Cover Up, English, Fairy tale, 29-02-2012, 46.5, 4, 4.4, MP3
+33181403, ebook, The Angel And The Star, French, Fan fiction, 20-08-2020, 16, 7, 898, AZW3 
+14664858, paperback, The Other Animals, English, Fantasy, 23-06-2018, 2, 2, 844, new
+53142101, audiobook, Once Upon A Rat, English, Cop, 22-09-2010, 26.5, 5, 3.1, MP3
+37362629, ebook, Burger Boy, French, Courtroom, 24-11-2011, 21.5, 9, 578, PDF
+54284574, audiobook, The Lost Portrait, French, Swashbuckler, 15-02-2005, 7, 3, 9.9, WMA
+12301901, paperback, One Shot, English, Historical, 02-03-2008, 42, 1, 652, used
+85770141, ebook, Neverending Trip, French, Monster, 14-09-2001, 5.5, 8, 285, PDF
+52060413, audiobook, Invaders of the Earth, French, Dystopian, 11-05-2020, 29, 5, 4.9, MP3
+97646648, ebook, Whispers of a Ghost, English, Western, 26-11-2017, 44, 8, 667, MOBI 
+74254426, paperback, Blank Paper, English, Comedy, 29-10-2012, 25.5, 11, 678, new 
+05525428, audiobook, Captain’s Lost Treasure, French, Speech, 09-09-2014, 5, 6, 7.1, WMA
+05268976, ebook, Tick Tock, French, Military Action, 22-04-2017, 1.5, 2, 185, AZW3
+86533628, ebook, A Sharp Punishment, English, Cop, 09-11-2008, 49.5, 4, 945, PDF
+06136153, paperback, The Enchanted Ones, French, Philosophical Drama, 06-10-2018, 36, 7, 781, used
+65933366, audiobook, Clues And More Clues, English, Legal Drama, 11-03-2000, 48.5, 3, 6.3, WMA
+99238727, audiobook, The Crimes of Martin, English, High Fantasy, 16-10-2008, 41.5, 9, 5.8, MP3
+21745810, ebook, Skeletons in the House, English, Monster, 18-06-2005, 19, 8, 1076, PDF
+81135576, paperback, Night Light, English, French, Romance Drama, 09-03-2001, 39, 2, 942, new
+95964582, paperback, Ninja Cats Rescue Mission, English, Romance, 01-04-2016, 38.5, 3, 435, used
+81122373, audiobook, A Spell Too Far, French, Mystery, 30-12-2009, 5.5, 2, 2.2, MP3
+21855695, ebook, The Happy Alien, English, Horror, 05-05-2008, 46.5, 8, 187, PDF
+62168486, ebook, An Elephant’s Journey, English, Classic, 23-01-2021, 1, 7, 466, MOBI
+67465008, paperback, Standing Still, English, Folktale, 19-04-2001, 15, 8, 713, new
+15764116, audiobook, The Cover Up, French, Mythology, 27-10-2002, 7, 2, 9.7, PDF
+32145198, ebook, Bang, Crash and Boom, English, Realistic fiction, 25-03-2017, 16.5, 1, 835, AZW3 
+88532963, paperback, World of Yesterday, English, Drama, 24-10-2002, 44.5, 4, 156, new
+59232537, audiobook, Lost Warriors Of Elysium, French, Surrealist, 17-10-2002, 44, 1, 8.7, MP3
